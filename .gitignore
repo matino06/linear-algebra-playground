@@ -4,3 +4,4 @@ CMakeLists.txt
 Makefile
 dependencies/
 .DS_Store
+.sources/latex
